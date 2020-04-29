@@ -1,8 +1,9 @@
-Ligue 1 Games Season 2009/2010 to 2018/2019
+FIFA 20 Players Database
 ===========================================
 
-This project carries out a small analysis of 3800 Ligue 1 games from the 2009 season to the 2019 season.
-It contains sample requests.
+This project represents an analysis of the player database in FIFA 20.
+It was developed by [FC Python](https://fcpython.com/blog/filter-python-database-to-find-better-cheaper-players-using-fifas-ratings) and database can be found on [Kaggle](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset#players_20.csv)
+
 
 # Installation
 
@@ -11,7 +12,7 @@ First, you will need to install [git](https://git-scm.com/), if you don't have i
 Next, clone this repository by opening a terminal and typing the following commands:
 
     $ cd $HOME  # or any other development directory you prefer
-    $ git clone https://github.com/AbdoulMa/ligue1-games.git
+    $ git clone  https://github.com/AbdoulMa/FIFA-20-Players-Database.git
     $ cd Ligue1
 
 If you do not want to install git, you can instead download [master.zip](https://github.com/AbdoulMa/ligue1-games/archive/master.zip), unzip it, rename the resulting directory to `Ligue1` and move it to your development directory.
@@ -76,7 +77,7 @@ Okay! You can now start Jupyter, simply type:
 
     $ jupyter notebook
 
-This should open up your browser, and you should see Jupyter's tree view, with the contents of the current directory. If your browser does not open automatically, visit [127.0.0.1:8888](http://127.0.0.1:8888/tree). Click on `Ligue_2009-2019.ipynb` to get started!
+This should open up your browser, and you should see Jupyter's tree view, with the contents of the current directory. If your browser does not open automatically, visit [127.0.0.1:8888](http://127.0.0.1:8888/tree). Click on `Fifa_ratings.ipynb` to get started!
 
 ## License
 
