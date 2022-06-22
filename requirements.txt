@@ -2,4 +2,4 @@
 
 #### Packages
 pandas==1.0.3
-numpy==1.18.3
+numpy==1.22.0
